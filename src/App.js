@@ -12,7 +12,8 @@ constructor(){
   this.state={
 
     monsters:[],
-    searchField:''
+    searchField:'',
+    title:""
   }
   //this.handleChange= this.handleChange.bind(this);
 }
